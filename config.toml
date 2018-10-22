@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+title = "Mon démonstrateur d’internationalisation"
+theme = "hyde"
+
+languageCode = "fr"
+DefaultContentLanguage = "fr"
+defaultContentLanguageInSubdir = true
