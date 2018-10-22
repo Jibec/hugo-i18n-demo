@@ -1,7 +1,25 @@
 baseURL = "http://example.org/"
-title = "Mon démonstrateur d’internationalisation"
-theme = "hyde"
 
 languageCode = "fr"
-DefaultContentLanguage = "fr"
+defaultContentLanguage = "fr"
 defaultContentLanguageInSubdir = true
+enableMissingTranslationPlaceholders = true
+
+theme = "hyde"
+
+[languages]
+  [languages.fr]
+    title = "Mon démonstrateur d’internationalisation"
+    contentDir = "content/fr"
+  [languages.ar]
+    title = "بلدي تدويل المتظاهر"
+    contentDir = "content/ar"
+  [languages.oc]
+    title = "El meu manifestant d'internacionalització"
+    contentDir = "content/oc"
+  [languages.en]
+    title = "My internationalization demonstrator"
+    contentDir = "content/en"
+  [languages.ro]
+    title = "Demonstratorul meu de internaționalizare"
+    contentDir = "content/ro"
