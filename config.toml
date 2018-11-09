@@ -11,15 +11,20 @@ theme = "hyde"
   [languages.fr]
     title = "Mon démonstrateur d’internationalisation"
     contentDir = "content/fr"
+    languageName = "Français"
   [languages.ar]
     title = "بلدي تدويل المتظاهر"
     contentDir = "content/ar"
+    languageName = "العربية"
   [languages.oc]
     title = "El meu manifestant d'internacionalització"
     contentDir = "content/oc"
+    languageName = "occitan"
   [languages.en]
     title = "My internationalization demonstrator"
     contentDir = "content/en"
+    languageName = "English"
   [languages.ro]
     title = "Demonstratorul meu de internaționalizare"
     contentDir = "content/ro"
+    languageName = "Română"
