@@ -7,6 +7,9 @@ enableMissingTranslationPlaceholders = true
 
 theme = "hyde"
 
+[permalinks]
+   posts = "/:year/:month/:title/"
+
 [languages]
   [languages.fr]
     title = "Mon démonstrateur d’internationalisation"

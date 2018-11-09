@@ -1,5 +1,5 @@
 ---
-title: "Demo"
+title: "Démo"
 date: 2018-10-22T07:46:47+02:00
 draft: False
 ---
